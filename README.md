@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="images/cv1.png" alt="cover" />
+  <img src="images/cv1.jpeg" alt="cover" />
 </div>
 <div align="center">
 <h1 align="center">Hi 👋, I'm Abdessamad</h1>

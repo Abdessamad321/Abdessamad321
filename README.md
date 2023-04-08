@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **abdouel084@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdessamad-el-280506215/](https://www.linkedin.com/in/abdessamad-el-280506215/)
+- 💻 I enjoy learning new things about coding.
+
+- 💬 Feel free to approach me with any tech-related questions or concerns - I'm always eager to assist and share my expertise.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

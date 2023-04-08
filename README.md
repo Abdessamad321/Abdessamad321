@@ -3,7 +3,6 @@
 <div align="center">
   <img src="images/cv1.jpeg" alt="cover" />
 </div>
-<div align="center">
 <h1 align="center">Hi 👋, I'm Abdessamad</h1>
 <h3 align="center">A Passionate about coding and design. From Morocco.</h3>
 

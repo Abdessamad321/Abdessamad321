@@ -8,12 +8,12 @@
 <h3 align="center">A Passionate about coding and design. From Morocco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessamad321&label=Profile%20views&color=0e75b6&style=flat" alt="abdessamad321" /> </p>
-<div align="left">
+  
 - 🌱 I’m currently learning **JavaScript, Node.Js**
 
 - 📫 How to reach me **abdouel084@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdessamad-el-280506215/](https://www.linkedin.com/in/abdessamad-el-280506215/)</div>
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdessamad-el-280506215/](https://www.linkedin.com/in/abdessamad-el-280506215/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamad321&show_icons=true&locale=en" alt="abdessamad321" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamad321&" alt="abdessamad321" /></p>
+<div align="left"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamad321&" alt="abdessamad321" /></p></div>
 
